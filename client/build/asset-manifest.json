@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4596d5c5.css",
+    "main.js": "/static/js/main.33a25860.js",
+    "static/media/fitsum-admasu-oGv9xIl7DkY-unsplash.jpg": "/static/media/fitsum-admasu-oGv9xIl7DkY-unsplash.57549aafad19763a06ce.jpg",
+    "index.html": "/index.html",
+    "main.4596d5c5.css.map": "/static/css/main.4596d5c5.css.map",
+    "main.33a25860.js.map": "/static/js/main.33a25860.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4596d5c5.css",
+    "static/js/main.33a25860.js"
+  ]
+}
